@@ -1,44 +1,25 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Physics
+      institution: Peking University, Beijing, China
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - 'Last year GPA: 92/100'
+        - 'Currently major GPA: 86/100'
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Research Projects
+      institution: Peking University, Beijing, China
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - 'Mentor: Prof. Dr. Jian-Hao Chen'
+        - 'Details: This project focuses on in situ measurement of transport properties of two-dimensional and other novel materials, requiring experimental measurements, data analysis, possible phenomenon interpretation/data simulation combined with condensed matter theory. Now the experiment is completed and a paper will be publicated.'
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Design or fabrication of novel devices
+    - title: Preparation and characterization of functional materials
