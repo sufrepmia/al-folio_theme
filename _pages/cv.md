@@ -2,6 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
+description: Click the PDF button to see the complete version.
 nav: true
 nav_order: 2
 cv_pdf: example_pdf.pdf
