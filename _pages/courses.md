@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: course
 permalink: /projects/
 title: Courses
 description: 
