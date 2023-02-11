@@ -18,8 +18,8 @@ Welcome! This is Yuan Sui's personal website and you can see my brief informatio
 
 The `CV` page includes my brief information of education, experience, interest and my `personal statement`. If you are interested, please see the PDF version. 
 
-The `Research` page have some small projects (such as research study, data analyzing/simulation and talks) which I worked on, and the recent project is updating.
+The `Research` page have some small projects (such as research study, data analyzing/simulation and talk) which I worked on, and the recent project is updating.
 
-The `Courses` page records some of my advanced courses assignment which is devided into subjects and topics, to view the details please directly see the PDF file.
+The `Courses` page records some of my advanced courses assignments which are devided into subjects and topics, to view the details please directly see the PDF files.
 
-You can reach this site by `www.yuansui.website` or `sufrepmia.netlify.app`. Please contact me by sending email to `suiyuan@stu.pku.edu.cn` or `sufrepmia@gmail.com`. Thank you!
+You can reach this site by `www.yuansui.website` or `sufrepmia.netlify.app`. Please contact me by sending emails to `suiyuan@stu.pku.edu.cn` or `sufrepmia@gmail.com`. Thank you!
