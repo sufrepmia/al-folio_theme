@@ -18,8 +18,10 @@
         - 'Mentor: Prof. Dr. Jian-Hao Chen'
         - 'Details: This project focuses on in situ measurement of transport properties of two-dimensional and other novel materials, requiring experimental measurements, data analysis, possible phenomenon interpretation/data simulation combined with condensed matter theory. Now the experiment is completed and a paper will be publicated.'
 
-- title: Academic Interests
+- title: Currently Academic Interests
   type: nested_list
   contents:
-    - title: Design or fabrication of novel devices
+    - title: Fabrication of novel devices/circuits
     - title: Preparation and characterization of functional materials
+    - title: Devices/Robots design related to nanotechnology
+    - title: Energy storage involving novel materials
