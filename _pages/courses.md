@@ -1,7 +1,7 @@
 ---
 layout: course
 permalink: /course/
-title: Course
+title: Courses
 description: 
 nav: true
 nav_order: 5
