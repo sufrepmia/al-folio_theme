@@ -14,4 +14,12 @@ profile:
 news: true # includes a list of news items
 ---
 
-Currently I am a junior student in Peking University, conducting a research project on the characterization and transport properties of novel materials. Now my research interests are concentrated in applied physics and emerging engineering fields and I have been well prepared during university studies: I have a good ability in physics/mathematics and technical skills by performing well in physics, mathematics, programming and laboratory courses; Through paper research, communication and presentation, data analyzing and experimental operation exercises in undergraduate research and other projects/courses, I believe I have the ability to quickly learn and apply new knowledge. Therefore, I want to improve my ability and cultivate interest by trying and challenging more research fields.
+Welcome! This is Yuan Sui's personal website and you can see my brief information here. Currently I am a junior in `PKU` learning physics, and now I am highly interested in `physics-related engineering` fields, such as ee, material science, energy engineering, robots, etc. Besides this page, there are other three pages on my website:
+
+The `CV` page includes my brief information of education, experience, interest and my `personal statement`. If you are interested, please see the PDF version. 
+
+The `Research` page have some small projects (such as research study, data analyzing/simulation and talks) which I worked on, and the recent project is updating.
+
+The `Courses` page records some of my advanced courses assignment which is devided into subjects and topics, to view the details please directly see the PDF file.
+
+You can reach this site by `www.yuansui.website` or `sufrepmia.netlify.app`. Please contact me by sending email to `suiyuan@stu.pku.edu.cn` or `sufrepmia@gmail.com`. Thank you!
