@@ -1,7 +1,7 @@
 ---
 layout: course
-permalink: /projects/
-title: Courses
+permalink: /course/
+title: Course
 description: 
 nav: true
 nav_order: 5
