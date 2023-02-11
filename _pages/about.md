@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: School of Physics, Peking University, Beijing, China
+subtitle: `School of Physics, Peking University, Beijing, China`
 
 profile:
   align: right
