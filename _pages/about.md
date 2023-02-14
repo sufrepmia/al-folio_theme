@@ -14,7 +14,7 @@ profile:
 news: true # includes a list of news items
 ---
 
-Welcome! This is Yuan Sui's personal website and you can see my brief information here. Currently I am a junior in `PKU` learning physics, and now I am highly interested in `physics-related engineering` fields, such as ee, material science, energy engineering, robots, etc. Besides this page, there are other three pages on my website:
+Welcome! This is Yuan Sui's personal website and you can see my brief information here. Currently I am a junior in `PKU majoring physics`, and now I am highly interested in `Electrical engineering` fields, especially the design and fabrication of new devices/chips related to semiconductor physics. Besides this page, there are other three pages on my website:
 
 The `CV` page includes my brief information of education, experience, interest and my `personal statement`. If you are interested, please see the PDF version. 
 
